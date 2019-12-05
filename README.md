@@ -14,6 +14,6 @@ The index page points to the endpoint URL of the API. It leads to the songs in J
 There is a POST method using which you can add _songs_ and it will get reflected in the app. 
 
 URLs:
-<local host>/admin
-<local host>/songs
-<local host>
+- <local host>/admin
+- <local host>/songs
+- <local host>
